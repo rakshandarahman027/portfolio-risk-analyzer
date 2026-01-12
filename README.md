@@ -16,11 +16,6 @@ This project investigates a critical question for any investor: **"How can a por
 *   **Core Takeaway**: Optimization improved metrics, but a simple S&P 500 index fund (SPY) remained a statistically robust benchmark for risk-adjusted performance.
 
 ## 🛠️ Project Structure & Technologies
-portfolio-risk-analyzer/
-├── Data/ # All cleaned datasets for analysis & visualization
-├── Script_python/ # Data collection, simulation & analysis (Google Colab)
-├── Script_R/ # Statistical hypothesis testing (RStudio)
-└── README.md
 
 ### **Tools & Skills Demonstrated**
 *   **Finance**: Modern Portfolio Theory, Efficient Frontier, Sharpe Ratio, Risk-Return Trade-off
