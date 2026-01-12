@@ -1,0 +1,4 @@
+"Test","p_value","Significant","Conclusion"
+"Beat Cash (0%)",0.0057,"YES","Statistically beats cash"
+"Beat Market (SPY)",0.4646,"NO","No evidence beats market"
+"Less Risky than SPY",0.9985,"NO","Actually riskier than market"
