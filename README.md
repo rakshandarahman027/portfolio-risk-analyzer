@@ -2,7 +2,7 @@
 
 A comprehensive data analytics project that combines **financial analysis, statistical testing, and interactive visualization** to evaluate and optimize a multi-asset investment portfolio. This project demonstrates the full data science workflow from data collection to business insight.
 
-[LINK TO YOUR TABLEAU PUBLIC DASHBOARD]
+https://public.tableau.com/app/profile/rakshanda.rahman6288/viz/Portfolio_Analysis-RakshandaRahman/Dashboard1 
 
 ## 🎯 Project Overview
 
